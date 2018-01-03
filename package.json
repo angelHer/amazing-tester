@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/angelHer/amazing-tester/issues"
   },
-  "homepage": "https://github.com/angelHer/amazing-tester#readme"
+  "homepage": "https://github.com/angelHer/amazing-tester#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
 }
