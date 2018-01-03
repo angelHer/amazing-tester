@@ -1,0 +1,19 @@
+{
+  "name": "tester",
+  "version": "1.0.0",
+  "description": "tester de amazing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelHer/amazing-tester.git"
+  },
+  "author": "Angel Hernandez Licona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelHer/amazing-tester/issues"
+  },
+  "homepage": "https://github.com/angelHer/amazing-tester#readme"
+}
